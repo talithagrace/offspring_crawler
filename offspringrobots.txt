@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /view/secured/content/login
+Disallow: /*&*&*&*
+
+Sitemap: https://www.offspring.co.uk/view/component/sitemap.xml
